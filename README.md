@@ -1,20 +1,26 @@
 # Tailwind-css
 # Learning Reflections README 
-At first i did not really understand what is expected from us.I thought it will be more complex like the previous projects, to my suprise it was short and straigt forward.i wouldn't necessarely say i fully understand Tailwind , but it doesn't look that complicated.This project felt more like an introduction than a challenge.
+The lectures where a good guide, it explained well and i learned how to use tailwind instead of style css and javascript, Tailwin is the quickest and shortest way to style a web page and make it responsive, it can be tricky at first , but as soon as you get the hang of it , using Tailwind is fun.
 
 ### Overview
-Iam intrested in understanding it fully as it looks way easier to use and short.Tailwind seem way more straight forward , i hope it doesn't get complicated.
+Iam intrested in understanding it fully as it looks way easier to use and short.Tailwind seem way more straight forward , I sttill would like to continue using Javascript and Style CSS , reason being i feel tailwind is easy to understand and use once you have mastered JS and CSS first. 
 
 ### Reflections
-I do not have much to reflect on as i already mention thaat it felt more like and indroction to a new topic than a challenge, we had a guide ,of which it made the whole thing simple
+In most lectures tailwind cheatsheet was mentioned as a handy tool, and that made me realise that with a lot of abbreviation being used , one can never really know tailwind by heart, intresting that i always thought that PNG is a better format to use for pictures untils i  learned SVG. 
+
 #### Areas of Mastery
-still to soon to can say what i master or what i would like to master, this is the first Tailwind practice
+i can safely say i have a full understanding of Grid and flex at this point, i wouldn't call it mastery as it is only the fundamental stage.  
 
 #### Challenges Faced
-None
-- **Tailwind-css**:
- It seems to be short and straight forwad method of coding.
+Lecture 1 was complicated and long, at some point i got lost as the lecturer kept going back and forth, adding and cancelling. At the end i finally understood it after watching it 3 time, but beside that i had no challenges.
+
 - **Code Optimization**:
- My code gave results, but i would like to do more of this kind to understand and probably master it.
+ My code gave results, but i would like to do more of this without a guide maybe  to understand and probably master it.
+
 #### Overall Learning Experience
-It was not that challenging, it was more of a copy and paste, read and follow instruction.
+It was challenging as it was the first time i had to do a code that long with so many div inside other divs and having so many div class. i found it intresting as i learned a whole different way of coding form other previous projects.
+
+Loom Link: https://www.loom.com/share/055d9c92c86443f791aef72997018d41?sid=859407ad-fe3a-4456-9bc9-28529916c01c
+
+Presantation link: https://docs.google.com/presentation/d/1DIF0B_f98INu03UYTBWzV7Bm4DsSiOs17xJMyeUTjhM/edit?usp=sharing
+```
